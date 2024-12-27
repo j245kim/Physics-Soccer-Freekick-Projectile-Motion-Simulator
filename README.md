@@ -23,7 +23,7 @@ This is a simple interactive game simulating a free kick scenario, built with Py
 
    ```bash
    pip install pygame
-   '''
+   ```
 
 # Compile 
 
